@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> This repository has moved to https://codeberg.org/Dmian/font-cpc464
+
+> [!WARNING]
+> This repository is now archived and no longer mantained on GitHub.
+
 # CPC464 pixel font
 
  An 8x8 pixel font based on the Amstrad CPC 464 font.
